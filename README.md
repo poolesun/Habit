@@ -3,7 +3,7 @@
 ## 🐳 启动步骤
 
 ```bash
-git clone https://github.com/huangjxjx/habitbuilder-docker.git
+git clone https://github.com/poolesun/Habit.git
 cd habitbuilder-docker
 docker compose up -d
 
