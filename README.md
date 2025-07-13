@@ -1,2 +1,10 @@
-# Habit
-浙软项目-武汉大学-孙志成
+# HabitBuilder Docker 一键部署职途星
+
+## 🐳 启动步骤
+
+```bash
+git clone https://github.com/huangjxjx/habitbuilder-docker.git
+cd habitbuilder-docker
+docker compose up -d
+
+启动完成后，访问网址localhost:80即可进入网站
